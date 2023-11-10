@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WindowsNoAppx": {
+      "commandName": "Executable",
+      "executablePath": ".\\MauiTest.exe"
+    }
+  }
+}
